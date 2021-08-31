@@ -1,6 +1,6 @@
 ## Victor Genari 👋
 
-- 🔭 I’m currently working on english skills ..
+- 🔭 I’m currently working on my english skills ..
 - 💬 Ask me about anything ..
 
 <hr>
