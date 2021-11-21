@@ -29,10 +29,4 @@
   
   ## Connections ✔️
   
-  <a href="https://www.linkedin.com/in/victorgenari/" rel="nofollow"><img src="https://camo.githubusercontent.com/c4d0f8f3edef3466c3d674ab069f0767582e81336e0c20a2e62971f41d8de925/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d786361736c75772d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-victorgenari-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a href="https://discord.com/app" rel="nofollow"><img src="https://camo.githubusercontent.com/5fb89749894980ce158ed73099448fdc37eed8a93b9340f50e50c09d935089e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c7563617325323047656e617269253230373232352d3539344142313f7374796c653d666c6174266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Victor%20Genari%207225-594AB1?style=flat&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
-
-<a href="mailto:victor.olr@hotmail.com"><img src="https://camo.githubusercontent.com/5a5d6552d363f7455f4b23628a0563761fb769f74971b0c874fa5e3168eeb52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c7563617367656e6172692d4635463546353f7374796c653d666c6174266c6f676f3d6d6963726f736f6674266c6f676f436f6c6f723d626c7565" data-canonical-src="https://img.shields.io/badge/-victorgenari-F5F5F5?style=flat&amp;logo=microsoft&amp;logoColor=blue" style="max-width: 100%;"></a>
-
-<a href="https://steamcommunity.com/id/k1genari/" rel="nofollow"><img src="https://camo.githubusercontent.com/87a6cdd377b1f0fc41970bac0d52614746b312086507a591b6350d25991e1183/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d786361736c75772d3431334433443f7374796c653d666c6174266c6f676f3d737465616d" data-canonical-src="https://img.shields.io/badge/-k1--413D3D?style=flat&amp;logo=steam" style="max-width: 100%;"></a>
