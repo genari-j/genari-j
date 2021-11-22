@@ -29,6 +29,7 @@
   
   ## Connections ✔️
   
+  
   E-mail: victor.olr@hotmail.com
   
   LinkedIn: https://www.linkedin.com/in/victorgenari/
