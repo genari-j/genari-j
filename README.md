@@ -28,8 +28,9 @@
 <hr>
   
   ## Connections ✔️
-  
-  
-  E-mail: victor.olr@hotmail.com
-  
-  LinkedIn: https://www.linkedin.com/in/victorgenari/
+
+<p align="left">
+<a href="https://www.linkedin.com/in/victorgenari/"><img src="https://img.shields.io/badge/-victorgenari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:victor.olr@hotmail.com"><img src="https://img.shields.io/badge/-victorgenari-F5F5F5?style=flat&logo=microsoft&logoColor=blue"/></a>
+<a href="https://steamcommunity.com/id/k1genari/"><img src="https://img.shields.io/badge/-victorgenari-413D3D?style=flat&logo=steam"/></a>
+</p>
