@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/victorgenari/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorgenari&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgenari&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorgenari&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgenari&layout=compact"/>
 </div> <br>
   
 <hr>
