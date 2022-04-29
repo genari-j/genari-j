@@ -1,4 +1,4 @@
-## Victor Genari 👋
+## Victor Genari 🖐️
 
 - 🔭 I’m currently working on my english skills ..
 - 💬 Ask me about anything ..
@@ -7,7 +7,7 @@
 
 <hr>
 
-## Analytics ⚙️
+## Analytics 📊
 
 <div>
   <a href="https://github.com/victorgenari/">
@@ -17,7 +17,7 @@
   
 <hr>
 
-## Languages & Tools 🛠
+## Languages & Tools 🔁
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -33,7 +33,7 @@
  
 <hr>
   
-  ## Connections ✔️
+  ## Connections 📶
 
 <p align="left">
 <a href="https://www.linkedin.com/in/victorgenari/"><img src="https://img.shields.io/badge/-victorgenari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
