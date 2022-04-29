@@ -1,6 +1,6 @@
 ## Victor Genari 🖐️
 
-- 🔭 I’m currently working on my english skills ..
+- 🔭 I’m currently working on my english skills.
 - 💬 Ask me about anything ..
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to sing in the shower 🤣
