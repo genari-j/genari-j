@@ -5,8 +5,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to sing in the shower 🤣
 
-Atualmente sou desenvolvedor Front-end e me dedico a criar conteúdos inusitados, atemporais e ao mesmo tempo acessíveis para todos. Sempre proativo e extremamente motivado no trabalho. Também estou cursando Análise e Desenvolvimento de Sistemas pela instituição de ensino Estácio e faço um curso profissionalizante pela Rocketseat (Ignite) focado em React.js. Ao mesmo tempo que continuo aprimorando minhas habilidades no Front-end, venho estudando Node.js/Express (criações de APIs e conexões com Banco de Dados - MySQL.
-
 <hr>
 
 ## Analytics 📊
