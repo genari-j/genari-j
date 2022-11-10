@@ -8,17 +8,17 @@ Também estou cursando Análise e Desenvolvimento de Sistemas pela instituição
 
 Além disso, tenho sólidas skills em Inglês (Reading and Writing)
 
-Front-end:
-HTML, CSS (100% Responsive), SASS & Styled-Components, Javascript
+<strong>Front-end:</strong><br>
+HTML, CSS (100% Responsive), SASS & Styled-Components, Javascript<br>
 React.js (React Router Dom, ContextAPI, Styled Components, etc...)
 
-Back-end:
+<strong>Back-end:</strong><br>
 NodeJS (Express, Consign, Knex, Bcrypt, JWT, etc...)
 
-Demais:
+<strong>Others:</strong><br>
 API Rest, GIT/Github, NPM, Vite, Typescript
 
-Database:
+<strong>Database:</strong><br>
 MySQL
 
 <hr>
