@@ -36,7 +36,15 @@
   ## Connections 📶
 
 <p align="left">
-<a href="https://www.linkedin.com/in/victorgenari/"><img src="https://img.shields.io/badge/-victorgenari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:victor.olr@hotmail.com"><img src="https://img.shields.io/badge/-victorgenari-F5F5F5?style=flat&logo=microsoft&logoColor=blue"/></a>
-<a href="https://victorgenari.vercel.app/"><img src="https://img.shields.io/badge/-victorgenari-413D3D?style=flat&logo=portfolio"/></a>
+
+  <a href="https://www.linkedin.com/in/victorgenari/" target="_blank">
+    <img src="https://img.shields.io/badge/-victorgenari-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:victor.olr@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-victorgenari-F5F5F5?style=flat&logo=microsoft&logoColor=blue"/>
+  </a>
+  <a href="https://victorgenari.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-portfolio/victorgenari-413D3D?style=flat&logo=OpenProject"/>
+  </a>
+
 </p>
