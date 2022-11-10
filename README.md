@@ -23,7 +23,7 @@ MySQL
 
 ## Contact
 
-<p align="left">
+<div align="left">
 
   <a href="https://www.linkedin.com/in/victorgenari/" target="_blank">
     <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=Linkedin&logoColor=white"/>
@@ -35,13 +35,13 @@ MySQL
     <img src="https://img.shields.io/badge/-portfolio/victorgenari-05122A?style=flat&logo=OpenProject&logoColor=red"/>
   </a>
 
-</p>
+</div>
 
 <hr>
 
 ## Analytics 📊
 
-<div>
+<div align="center">
   <a href="https://github.com/victorgenari/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorgenari&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgenari&layout=compact&theme=dark"/>
