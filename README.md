@@ -1,9 +1,25 @@
 ## Victor Genari 🖐️
 
-- 🔭 I’m currently working on my english skills.
-- 💬 Ask me about anything ..
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to sing in the shower 🤣
+Sou desenvolvedor Front-end, focado em criações de novos projetos/interfaces com React.js. Procuro sempre criar aplicações com conteúdos modernos, com fácil entendimento/acessibilidade aos usuários.
+
+Mesmo com o foco maior no front-end, também venho aprimorando cada vez mais as habilidades no back-end (Criações de APIs com banco de dados MySQL).
+
+Também estou cursando Análise e Desenvolvimento de Sistemas pela instituição de ensino Estácio, e faço um curso profissionalizante pela Rocketseat voltado para front-end (React.js) e back-end (Node.js), ambos com Typescript.
+
+Além disso, tenho sólidas skills em Inglês (Reading and Writing)
+
+Front-end:
+HTML, CSS (100% Responsive), SASS & Styled-Components, Javascript
+React.js (React Router Dom, ContextAPI, Styled Components, etc...)
+
+Back-end:
+NodeJS (Express, Consign, Knex, Bcrypt, JWT, etc...)
+
+Demais:
+API Rest, GIT/Github, NPM, Vite, Typescript
+
+Database:
+MySQL
 
 <hr>
 
