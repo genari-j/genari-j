@@ -26,16 +26,16 @@ MySQL
 <div align="left">
 
   <a href="https://www.linkedin.com/in/victorgenari/" target="_blank">
-    <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LINKEDIN-05122A?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:victor.olr@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=minutemailer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-EMAIL-05122A?style=flat&logo=minutemailer&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UClXXp4Q7nrG0YsJYzvlN7dg" target="_blank">
-    <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-YOUTUBE-05122A?style=flat&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://victorgenari.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-portfolio/victorgenari-05122A?style=flat&logo=OpenProject&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PORTFOLIO-05122A?style=flat&logo=OpenProject&logoColor=white"/>
   </a>
 
 </div>
