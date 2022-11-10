@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/-victorgenari-F5F5F5?style=flat&logo=microsoft&logoColor=blue"/>
   </a>
   <a href="https://victorgenari.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-portfolio/victorgenari-413D3D?style=flat&logo=OpenProject"/>
+    <img src="https://img.shields.io/badge/-portfolio/victorgenari-413D3D?style=flat&logo=OpenProject&logoColor=red"/>
   </a>
 
 </p>
