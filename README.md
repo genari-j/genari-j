@@ -1,4 +1,4 @@
-## Victor Genari 🖐️
+## João Victor Genari 🖐️
 
 Sou desenvolvedor Front-end, focado em criações de novos projetos/interfaces com React.js. Procuro sempre criar aplicações com conteúdos modernos, com fácil entendimento/acessibilidade aos usuários.
 
