@@ -29,10 +29,13 @@ MySQL
     <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:victor.olr@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=microsoft&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=minutemailer&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UClXXp4Q7nrG0YsJYzvlN7dg" target="_blank">
+    <img src="https://img.shields.io/badge/-victorgenari-05122A?style=flat&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://victorgenari.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-portfolio/victorgenari-05122A?style=flat&logo=OpenProject&logoColor=red"/>
+    <img src="https://img.shields.io/badge/-portfolio/victorgenari-05122A?style=flat&logo=OpenProject&logoColor=white"/>
   </a>
 
 </div>
