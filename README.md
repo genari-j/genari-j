@@ -21,7 +21,7 @@ API Rest, GIT/Github, NPM, Vite, Typescript
 <strong>Database:</strong><br>
 MySQL
 
-## Contact
+## Contact •
 
 <div align="left">
 
@@ -39,7 +39,7 @@ MySQL
 
 <hr>
 
-## Analytics 📊
+## Analytics •
 
 <div align="center">
   <a href="https://github.com/victorgenari/">
@@ -49,7 +49,7 @@ MySQL
 
 <hr>
 
-## Languages & Tools
+## Languages & Tools •
 <div align="center">
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
