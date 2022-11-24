@@ -10,13 +10,13 @@ Além disso, tenho sólidas skills em Inglês (Reading and Writing)
 
 <strong>Front-end:</strong><br>
 HTML, CSS (100% Responsive), SASS & Styled-Components, Javascript<br>
-React.js (React Router Dom, ContextAPI, Styled Components, etc...)
+React.js (React Router Dom, Styled Components, etc...)
 
 <strong>Back-end:</strong><br>
-NodeJS (Express, Consign, Knex, Bcrypt, JWT, etc...)
+NodeJS (Express)
 
 <strong>Others:</strong><br>
-API Rest, GIT/Github, NPM, Vite, Typescript
+API Rest, GIT/Github, NPM, Vite
 
 <strong>Database:</strong><br>
 MySQL
@@ -71,7 +71,6 @@ MySQL
 
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
   ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=Insomnia&logoColor=4000BF)&nbsp;
   ![Npm](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
 
