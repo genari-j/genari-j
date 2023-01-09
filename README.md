@@ -15,6 +15,15 @@ React.js (React Router Dom, Styled Components, etc...)
 <strong>Back-end:</strong><br>
 NodeJS (Express)
 
+<strong>Mobile:</strong><br>
+Flutter (Learning)
+
+<strong>Versionamento:</strong><br>
+Git - Github - Gitlab
+
+<strong>Metodologias:</strong><br>
+Kanban/Scrum (Trello - Jira)
+
 <strong>Others:</strong><br>
 API Rest, GIT/Github, NPM, Vite
 
