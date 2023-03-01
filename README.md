@@ -1,33 +1,39 @@
 ## João Victor Genari 🖐️
 
-Sou desenvolvedor Front-end, focado em criações de novos projetos/interfaces com React.js. Procuro sempre criar aplicações com conteúdos modernos, com fácil entendimento/acessibilidade aos usuários.
+Desenvolvedor Front-end, focado em criações de novos projetos/interfaces com React.js. Procuro sempre criar aplicações com conteúdos modernos, com fácil entendimento/acessibilidade aos usuários.
 
-Mesmo com o foco maior no front-end, também venho aprimorando cada vez mais as habilidades no back-end (Criações de APIs com banco de dados MySQL).
+Dentro de um ambiente de trabalho, tenho fácil capacidade em trabalhar em equipe e me comunicar com outras pessoas, independente do setor/área.
 
-Também estou cursando Análise e Desenvolvimento de Sistemas pela instituição de ensino Estácio, e faço um curso profissionalizante pela Rocketseat voltado para front-end (React.js) e back-end (Node.js), ambos com Typescript.
+Recentemente consegui minha primeira oportunidade fixa após a migração de área e agora faço parte da equipe de desenvolvedores da Primi Tecnologia. Venho me adequando aos padrões/projetos da empresa e interagindo com a integração de novos projetos. Hoje, estamos trabalhando no desenvolvimento de um Aplicativo interno utilizando Flutter/Dart.
 
-Além disso, tenho sólidas skills em Inglês (Reading and Writing)
+Mesmo com o foco maior no front-end, também venho estudando/aprimorando cada vez mais as habilidades no back-end (Criações de APIs com banco de dados MySQL).
+
+Também estou cursando Análise e Desenvolvimento de Sistemas pela instituição de ensino Estácio, e faço cursos profissionalizante por outras instituições (Rocketseat, Udemy) voltados para Densenvolvimento Fullstack. Além disso, continuo aprimorando os conhecimentos/habilidades no Idioma - Inglês.
 
 <strong>Front-end:</strong><br>
-HTML, CSS (100% Responsive), SASS & Styled-Components, Javascript<br>
+HTML, CSS (100% Responsive), SCSS, SASS & Styled-Components <br>
+Javascript <br>
 React.js (React Router Dom, Styled Components, etc...)
 
-<strong>Back-end:</strong><br>
-NodeJS (Express)
+<strong>Back-end:</strong> <br>
+NodeJS - Express (Learning)
 
-<strong>Mobile:</strong><br>
+<strong>Mobile:</strong> <br>
 Flutter (Learning)
 
-<strong>Versionamento:</strong><br>
+<strong>Versionamento:</strong> <br>
 Git - Github - Gitlab
 
-<strong>Metodologias:</strong><br>
+<strong>Metodologias:</strong> <br>
 Kanban/Scrum (Trello - Jira)
 
-<strong>Others:</strong><br>
-API Rest, GIT/Github, NPM, Vite
+<strong>Typescript:</strong> <br>
+Typescript (Learning)
 
-<strong>Database:</strong><br>
+<strong>Others:</strong> <br>
+API Rest, NPM, Vite
+
+<strong>Database:</strong> <br>
 MySQL
 
 ## Contact •
