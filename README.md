@@ -1,40 +1,24 @@
 ## João Victor Genari 🖐️
 
-Desenvolvedor Front-end, focado em criações de novos projetos/interfaces com React.js. Procuro sempre criar aplicações com conteúdos modernos, com fácil entendimento/acessibilidade aos usuários.
+Como Programador, minha principal habilidade é desenvolver soluções de software para atender a necessidade recebida. Tenho experiência em Frontend, trabalhando com <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>SCSS</strong>, <strong>SASS</strong>, <strong>Javascript</strong>, <strong>React.js</strong> e <strong>Styled-Components</strong>, o que me permite criar interfaces responsivas, modernas e agradáveis para o usuário.
+
+Além disso, também tenho habilidades em ferramentas de versionamento, trabalhando com <strong>Git</strong>, <strong>Github</strong> e <strong>Gitlab</strong>. Dessa forma, é notável um controle e segurança para os projetos de trabalho.
+
+Venho expandindo meus conhecimentos em Backend, estudando <strong>Node.js</strong>, <strong>Express.js</strong> e <strong>MySQL</strong>, para me tornar um desenvolvedor mais completo e capaz de criar soluções que englobam tanto o Frontend quanto o Backend.
+
+Sou familiarizado com as metodologias ágeis <strong>Scrum</strong> e <strong>Kanban</strong>, o que me permite trabalhar em equipe de forma mais eficiente e entregando valor de forma constante.
+
+Também tenho experiência em trabalhar com <strong>API Rest</strong>, <strong>NPM</strong>, <strong>Yarn</strong> e <strong>Vite</strong>, ferramentas essenciais para o desenvolvimento de software moderno.
+
+Estou investindo na minha educação, estudando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Estácio, SP e fazendo cursos profissionalizantes em outras instituições, como <strong>Rocketseat</strong> e <strong>Udemy</strong>.
 
 Dentro de um ambiente de trabalho, tenho fácil capacidade em trabalhar em equipe e me comunicar com outras pessoas, independente do setor/área.
 
-Recentemente consegui minha primeira oportunidade fixa após a migração de área e agora faço parte da equipe de desenvolvedores da Primi Tecnologia. Venho me adequando aos padrões/projetos da empresa e interagindo com a integração de novos projetos. Hoje, estamos trabalhando no desenvolvimento de um Aplicativo interno utilizando Flutter/Dart.
+Recentemente eu consegui minha primeira oportunidade e agora faço parte da equipe de Desenvolvedores da Primi Tecnologia. Sendo assim, apareceu também, a oportunidade de aprender <strong>Flutter</strong>/<strong>Dart</strong> para desenvolvimento Mobile.
 
-Mesmo com o foco maior no front-end, também venho estudando/aprimorando cada vez mais as habilidades no back-end (Criações de APIs com banco de dados MySQL).
-
-Também estou cursando Análise e Desenvolvimento de Sistemas pela instituição de ensino Estácio, e faço cursos profissionalizante por outras instituições (Rocketseat, Udemy) voltados para Densenvolvimento Fullstack. Além disso, continuo aprimorando os conhecimentos/habilidades no Idioma - Inglês.
-
-<strong>Front-end:</strong><br>
-HTML, CSS (100% Responsive), SCSS, SASS & Styled-Components <br>
-Javascript <br>
-React.js (React Router Dom, Styled Components, etc...)
-
-<strong>Back-end:</strong> <br>
-NodeJS - Express (Learning)
-
-<strong>Mobile:</strong> <br>
-Flutter (Learning)
-
-<strong>Versionamento:</strong> <br>
-Git - Github - Gitlab
-
-<strong>Metodologias:</strong> <br>
-Kanban/Scrum (Trello - Jira)
-
-<strong>Typescript:</strong> <br>
-Typescript (Learning)
-
-<strong>Others:</strong> <br>
-API Rest, NPM, Vite
-
-<strong>Database:</strong> <br>
-MySQL
+<strong>Sites:</strong> <br>
+https://github.com/victorgenari <br>
+https://victorgenari.vercel.app/ <br>
 
 ## Contact •
 
