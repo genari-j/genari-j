@@ -17,7 +17,7 @@ Dentro de um ambiente de trabalho, tenho fácil capacidade em trabalhar em equip
 Recentemente eu consegui minha primeira oportunidade e agora faço parte da equipe de Desenvolvedores da Primi Tecnologia. Sendo assim, apareceu também, a oportunidade de aprender <strong>Flutter</strong>/<strong>Dart</strong> para desenvolvimento Mobile.
 
 <strong>Sites:</strong> <br>
-https://github.com/victorgenari <br>
+https://www.linkedin.com/in/victorgenari/ <br>
 https://victorgenari.vercel.app/ <br>
 
 ## Contact •
