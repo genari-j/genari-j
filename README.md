@@ -1,6 +1,6 @@
 ## João Victor Genari 🖐️
 
-Como Programador, minha principal habilidade é desenvolver soluções de software para atender a necessidade recebida. Tenho experiência em Frontend, trabalhando com <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>SCSS</strong>, <strong>SASS</strong>, <strong>Javascript</strong>, <strong>React.js</strong> e <strong>Styled-Components</strong>, o que me permite criar interfaces responsivas, modernas e agradáveis para o usuário.
+Como Programador, minha principal habilidade é desenvolver soluções de software para atender a necessidade do cliente. Tenho experiência com Frontend e desenvolvimento de interface responsiva utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong>, <strong>SCSS</strong>, <strong>SASS</strong>, <strong>Styled-Components</strong>, <strong>Stitches</strong>, <strong>ESLint</strong>, <strong>Javascript</strong>, <strong>Typescript</strong> e <strong>React.js</strong>.
 
 Além disso, também tenho habilidades em ferramentas de versionamento, trabalhando com <strong>Git</strong>, <strong>Github</strong> e <strong>Gitlab</strong>. Dessa forma, é notável um controle e segurança para os projetos de trabalho.
 
@@ -16,8 +16,10 @@ Dentro de um ambiente de trabalho, tenho fácil capacidade em trabalhar em equip
 
 Recentemente eu consegui minha primeira oportunidade e agora faço parte da equipe de Desenvolvedores da Primi Tecnologia. Sendo assim, apareceu também, a oportunidade de aprender <strong>Flutter</strong>/<strong>Dart</strong> para desenvolvimento Mobile.
 
-<strong>Sites:</strong> <br>
+<strong>LinkedIn:</strong> <br>
 https://www.linkedin.com/in/victorgenari/ <br>
+
+<strong>Portfólio:</strong> <br>
 https://victorgenari.vercel.app/ <br>
 
 ## Contact •
