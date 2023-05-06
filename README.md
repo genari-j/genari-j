@@ -8,7 +8,7 @@ Venho expandindo meus conhecimentos em Backend, estudando <strong>Node.js</stron
 
 Sou familiarizado com as metodologias ágeis <strong>Scrum</strong> e <strong>Kanban</strong>, o que me permite trabalhar em equipe de forma mais eficiente e entregando valor de forma constante.
 
-Também tenho experiência em trabalhar com <strong>API Rest</strong>, <strong>NPM</strong>, <strong>Yarn</strong> e <strong>Vite</strong>, ferramentas essenciais para o desenvolvimento de software moderno.
+Também tenho experiência em trabalhar com <strong>API Rest</strong>, <strong>Npm</strong>, <strong>Yarn</strong>, <strong>Pnpm</strong>, <strong>Vite</strong>, <strong>ESLint</strong>, ferramentas essenciais para o desenvolvimento de software moderno.
 
 Estou investindo na minha educação, estudando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Estácio, SP e fazendo cursos profissionalizantes em outras instituições, como <strong>Rocketseat</strong> e <strong>Udemy</strong>.
 
