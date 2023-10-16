@@ -20,9 +20,6 @@ https://victorgenari.vercel.app/ <br>
   <a href="mailto:victor.olr@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-EMAIL-05122A?style=flat&logo=minutemailer&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/channel/UClXXp4Q7nrG0YsJYzvlN7dg" target="_blank">
-    <img src="https://img.shields.io/badge/-YOUTUBE-05122A?style=flat&logo=youtube&logoColor=white"/>
-  </a>
   <a href="https://victorgenari.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-PORTFOLIO-05122A?style=flat&logo=OpenProject&logoColor=white"/>
   </a>
