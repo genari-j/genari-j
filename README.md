@@ -5,10 +5,10 @@ Como Desenvolvedor Júnior na <strong>Primi Tecnologia</strong>, no momento esto
 Com cerca de um ano trabalhando na área, tenho familiaridade com metodologias ágeis, como Scrum e Kanban. Sou focado em construir aplicações que agreguem valores aos usuários/clientes. Além disso, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Estácio e fazendo cursos profissionalizante em outras instituições, como <strong>Rocketseat</strong> e <strong>Udemy</strong>.
 
 <strong>LinkedIn:</strong> <br>
-https://www.linkedin.com/in/victorgenari/ <br>
+https://www.linkedin.com/in/joaogenari/ <br>
 
 <strong>Portfólio:</strong> <br>
-https://victorgenari.vercel.app/ <br>
+https://joaogenari.vercel.app/ <br>
 
 ## Contact •
 
