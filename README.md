@@ -8,7 +8,7 @@ Com cerca de um ano trabalhando na área, tenho familiaridade com metodologias �
 https://www.linkedin.com/in/joaogenari/ <br>
 
 <strong>Portfólio:</strong> <br>
-https://joaogenari.vercel.app/ <br>
+https://genarij.com/ <br>
 
 ## Contact •
 
@@ -20,7 +20,7 @@ https://joaogenari.vercel.app/ <br>
   <a href="mailto:victor.olr@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-EMAIL-05122A?style=flat&logo=minutemailer&logoColor=white"/>
   </a>
-  <a href="https://victorgenari.vercel.app/" target="_blank">
+  <a href="https://genarij.com/" target="_blank">
     <img src="https://img.shields.io/badge/-PORTFOLIO-05122A?style=flat&logo=OpenProject&logoColor=white"/>
   </a>
 
