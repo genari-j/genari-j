@@ -1,8 +1,8 @@
 ## João Victor Genari 🖐️
 
-Como Desenvolvedor Fullstack na <strong>Primi Tecnologia</strong>, no momento estou atuando em um sistema de armazenamento de documentos, solução que permite aos colaboradores encontrar procedimentos da empresa e documentos vinculados aos seus departamentos. Também desenvolvo e matenho integrações com outros sistemas, como um Sistema de Chamados voltado para a área de manutenção e alguns Sites Web. Entre essas aplicações, venho utilizando as tecnologias <strong>Javascript</strong>, <strong>Typescript</strong>, <strong>Node.js</strong>, <strong>React.js</strong>, <strong>AWS</strong>, <strong>MySQL</strong>, <strong>Docker</strong> e <strong>GIT</strong>. <br>
+Tenho pouco mais de 2 anos de experiência profissional com <strong>React.js</strong> e <strong>Node.js</strong>. Participei de projetos com um número significativo de acessos simultâneos e também conduzi aplicações desde o início até o deploy + funcionamento em produção. <br>
 
-Com cerca de um ano trabalhando na área, tenho familiaridade com metodologias ágeis, como Scrum e Kanban. Sou focado em construir aplicações que agreguem valores aos usuários/clientes. Além disso, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Estácio e fazendo cursos profissionalizante em outras instituições, como <strong>Rocketseat</strong> e <strong>Udemy</strong>.
+Nesse período, venho utilizando metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>. Além disso, já tive a oportunidade de ministrar um treinamento de nível iniciante para ajudar participantes de um bootcamp do Santander.
 
 <strong>LinkedIn:</strong> <br>
 https://www.linkedin.com/in/joaogenari/ <br>
@@ -14,7 +14,7 @@ https://genarij.com/ <br>
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/victorgenari/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaogenari/" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-05122A?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:victor.olr@hotmail.com" target="_blank">
