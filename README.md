@@ -55,7 +55,7 @@ https://genarij.com/ <br>
   ![STITCHES](https://img.shields.io/badge/-Stitches-05122A?style=flat&logo=stitches&logoColor=DB7093)&nbsp;
   
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-  ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=FFFFFF)&nbsp;
+  ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify&logoColor=FFFFFF)&nbsp;
   ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=339933)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
   
