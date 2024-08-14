@@ -1,8 +1,10 @@
 ## João Victor Genari 🖐️
 
-Tenho pouco mais de 2 anos de experiência profissional com <strong>React.js</strong> e <strong>Node.js</strong>. Participei de projetos com um número significativo de acessos simultâneos e também conduzi aplicações desde o início até o deploy + funcionamento em produção. <br>
+Tenho cerca de 2 anos de experiência em desenvolvimento <strong>Fullstack</strong>, trabalhando em projetos com demandas diversas, desde a concepção até o deployment e manutenção em produção. <br>
 
-Nesse período, venho utilizando metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>. Além disso, já tive a oportunidade de ministrar um treinamento de nível iniciante para ajudar participantes de um bootcamp do Santander.
+Durante esse período, adotei metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>, e tive a oportunidade de ministrar treinamentos iniciais para participantes de um bootcamp do Santander. <br>
+
+Na empresa atual, venho trabalhando em diversos tipos de aplicações, tanto frontend quanto backend, utilizando tecnologias como <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>AWS</strong>, <strong>MySQL</strong>, <strong>Flutter</strong>, <strong>Docker</strong> e <strong>GIT</strong>. Usamos o Jira para gerenciar nossas sprints semanais e controlar as tarefas diárias, com foco em entregas curtas e constantes, sempre trazendo novas integrações aos clientes.
 
 <strong>LinkedIn:</strong> <br>
 https://www.linkedin.com/in/joaogenari/ <br>
