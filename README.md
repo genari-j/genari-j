@@ -2,7 +2,7 @@
 
 Sou desenvolvedor <strong>Fullstack</strong> com cerca de 2 anos de experiência, atuando em projetos diversos que abrangem desde a concepção até o deployment e a manutenção em produção. <br>
 
-Ao longo dessa trajetória, adotei práticas de metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>, e tive a oportunidade de liderar treinamentos iniciais para participantes do bootcamp do Santander, contribuindo para o desenvolvimento de novos talentos no setor.
+Ao longo dessa trajetória, adotei práticas de metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>, e tive a oportunidade de liderar treinamentos iniciais para participantes de um bootcamp do Santander, contribuindo para o desenvolvimento de novos talentos na área.
 
 Na minha atual posição, trabalho em uma variedade de aplicações tanto no frontend quanto no backend, utilizando tecnologias como <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>MySQL</strong>, <strong>Docker</strong>, <strong>AWS</strong> e <strong>GIT</strong>. Nosso time adota o <strong>Jira</strong> para gerenciar sprints semanais e controlar as tarefas diárias, com foco em entregas constantes e de alto impacto, sempre com a meta de integrar novas soluções para nossos clientes.
 
