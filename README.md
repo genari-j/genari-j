@@ -1,6 +1,6 @@
 ## João Victor Genari 🖐️
 
-Sou desenvolvedor <strong>Fullstack</strong> com cerca de 2 anos de experiência, atuando em projetos diversos que abrangem desde a concepção até o deployment e a manutenção em produção. <br>
+Profissional com pouco mais de <strong>3 anos</strong> de experiência nas áreas de <strong>Frontend</strong> e <strong>Backend</strong>, atuando em projetos diversos que abrangem desde a concepção até o deployment e a manutenção em produção. <br>
 
 Ao longo dessa trajetória, adotei práticas de metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>, e tive a oportunidade de liderar treinamentos iniciais para participantes de um bootcamp do Santander, contribuindo para o desenvolvimento de novos talentos na área.
 
