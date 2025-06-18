@@ -1,15 +1,17 @@
 ## João Victor Genari 🖐️
 
-Tenho cerca de 2 anos de experiência em desenvolvimento <strong>Fullstack</strong>, trabalhando em projetos com demandas diversas, desde a concepção até o deployment e manutenção em produção. <br>
+Sou desenvolvedor <strong>Fullstack</strong> com cerca de 2 anos de experiência, atuando em projetos diversos que abrangem desde a concepção até o deployment e a manutenção em produção. <br>
 
 Durante esse período, adotei metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>, e tive a oportunidade de ministrar treinamentos iniciais para participantes de um bootcamp do Santander. <br>
 
-Na empresa atual, venho trabalhando em diversos tipos de aplicações, tanto frontend quanto backend, utilizando tecnologias como <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>AWS</strong>, <strong>MySQL</strong>, <strong>Flutter</strong>, <strong>Docker</strong> e <strong>GIT</strong>. Usamos o Jira para gerenciar nossas sprints semanais e controlar as tarefas diárias, com foco em entregas curtas e constantes, sempre trazendo novas integrações aos clientes.
+Ao longo dessa trajetória, adotei práticas de metodologias ágeis, como <strong>Scrum</strong> e <strong>Kanban</strong>, e tive a oportunidade de liderar treinamentos iniciais para participantes do bootcamp do Santander, contribuindo para o desenvolvimento de novos talentos no setor.
+
+Na minha atual posição, trabalho em uma variedade de aplicações tanto no frontend quanto no backend, utilizando tecnologias como <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>MySQL</strong>, <strong>Docker</strong>, <strong>AWS</strong> e <strong>GIT</strong>. Nosso time adota o <strong>Jira</strong> para gerenciar sprints semanais e controlar as tarefas diárias, com foco em entregas constantes e de alto impacto, sempre com a meta de integrar novas soluções para nossos clientes.
 
 <strong>LinkedIn:</strong> <br>
 https://www.linkedin.com/in/joaogenari/ <br>
 
-<strong>Portfólio:</strong> <br>
+<strong>Veja meu site:</strong> <br>
 https://genarij.com/ <br>
 
 ## Contact •
